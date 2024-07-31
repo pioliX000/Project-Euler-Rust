@@ -1,0 +1,12 @@
+[package]
+name = "problem-4"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "problem4"
+path = "src/p4.rs"
+
+[dependencies]
+primes = "0.3.0"
+

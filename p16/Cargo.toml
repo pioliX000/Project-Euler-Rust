@@ -1,0 +1,12 @@
+[package]
+name = "problem-16"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "problem16"
+path = "src/p16.rs"
+
+[dependencies]
+primes = "0.3.0"
+num-bigint = "0.4"

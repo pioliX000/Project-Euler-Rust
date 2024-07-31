@@ -1,0 +1,11 @@
+[package]
+name = "problem-15"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "problem15"
+path = "src/p15.rs"
+
+[dependencies]
+primes = "0.3.0"

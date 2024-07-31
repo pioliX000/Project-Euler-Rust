@@ -1,0 +1,6 @@
+[package]
+name = "problem-1"
+
+[[bin]]
+name = "problem-1"
+path = "src/p1.rs"

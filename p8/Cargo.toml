@@ -1,0 +1,12 @@
+[package]
+name = "problem-8"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "problem8"
+path = "src/p8.rs"
+
+[dependencies]
+primes = "0.3.0"
+
